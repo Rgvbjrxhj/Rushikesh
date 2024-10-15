@@ -1,5 +1,6 @@
 hello 
 user
 welcome to  git bash
-
+enter id 
+enter password
 
