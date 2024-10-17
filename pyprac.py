@@ -86,7 +86,7 @@
 # b= f"I am {a}"
 # print(b)
 
-# a = []"pen", "book", "pencil"]
+# a = ["pen", "book", "pencil"]
 # print(len(a))
 
 # a = ["pen", "book", "pencil"]
