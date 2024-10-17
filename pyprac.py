@@ -76,7 +76,7 @@
 
 # a = "Hello , User"
 # print(a.split(","))
-
+# `
 # a = "Hello"
 # b = "World"
 # c = a + " " + b
@@ -86,8 +86,8 @@
 # b= f"I am {a}"
 # print(b)
 
-# a = ["pen", "book", "pencil"]
-# print(len(a))
+# # a = ["pen", "book", "pencil"]
+# # print(len(a))
 
 # a = ["pen", "book", "pencil"]
 # print(a[1])
